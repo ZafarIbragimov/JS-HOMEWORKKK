@@ -1,0 +1,9 @@
+body{
+     background-size: cover;
+     
+}
+
+h1{
+    position: relative;
+    z-index: 99999999;
+}

@@ -1,0 +1,18 @@
+input {
+  width: 170px;
+  height: 70px;
+  position: relative;
+  top: 250px;
+  left: 670px;
+}
+
+a {
+  background-color: white;
+  width: 120px;
+  text-decoration: none;
+  border: 2px black;
+  position: relative;
+  top: 170px;
+
+  left: 810px;
+}

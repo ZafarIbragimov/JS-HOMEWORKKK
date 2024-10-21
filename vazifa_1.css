@@ -1,0 +1,52 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+.container {
+  background-color: blue;
+  border: blue;
+  width: 120px;
+  height: 120px;
+  position: relative;
+  top: 40px;
+  left: 70px;
+}
+body {
+    background-image: url(https://assets.churchofjesuschrist.org/41/ea/41ea1c3fd2e8c325703ccd5e124841810b53902f/bible_video_wise_men.jpeg);
+   width: 100%;
+  height: 100%;
+}
+
+.inpute {
+  position: relative;
+  z-index: 9999999;
+  padding-left: 700px;
+  padding-right: 200px;
+  margin-top: 270px;
+  row-gap: 20px;
+ }
+
+input{
+    margin-bottom: 20px;
+    width: 250px;
+    height: 40px;
+    text-align: center;
+    border-radius: 20px;
+}
+button{
+    width: 120px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+a{
+    background-color: white;
+    width: 140px;
+    height: 140px;
+    border-radius: 10px;
+    position: relative;
+    top: 210px;
+    left: 760px;
+}

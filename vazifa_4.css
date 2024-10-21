@@ -1,0 +1,27 @@
+body{
+    background-image: url(https://media.istockphoto.com/id/1469498103/photo/the-change-of-the-four-seasons-on-a-tree.jpg?s=612x612&w=0&k=20&c=10cNrTM15urHFUq9JKv-v-p1BSBhf3A4VSsTZqhFKY4=);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+button{
+    background-color: #4CAF50;
+    color: white;
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    position: relative;
+    top: 390px;
+    left: 550px;
+}
+a{
+    position: relative;
+    top: 350px;
+    left: 850px; 
+    text-decoration: none;
+    color: white;
+    background-color: #4CAF50;
+    width: 120px;
+    height: 40px;
+
+}
